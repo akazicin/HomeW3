@@ -101,7 +101,7 @@ public class Main {
         System.out.println(" Вес завтрака соствит " + wightBreakfastKg + " кг ");
 
         //task 7
-        byte targetKg = 7;
+        byte targetKg = 8;
         int targetGrams = targetKg * 1000;
         System.out.println(targetGrams / 250);
         System.out.println(targetGrams / 500);
